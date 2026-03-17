@@ -153,18 +153,14 @@ I regularly practice **Data Structures and Algorithms**.
 
 <img src="./assets/yug-lab.svg" width="100%" alt="Yug Patel hero banner" />
 
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=950&color=00D9FF&center=true&vCenter=true&width=980&lines=booting+yugOS...;Full-Stack+Developer+%7C+MERN+Stack+%7C+REST+APIs;Java+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;Cloud+%7C+DSA+%7C+System+Thinking;I+like+building+clean+things+that+actually+work+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=yugcpatel&label=profile+views&color=00D9FF&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/yugcpatel?style=for-the-badge&color=7B2FFF&labelColor=0d1117&logo=github&label=followers" />
 <img src="https://img.shields.io/badge/open%20to-internships%20%26%20collabs-00D9FF?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/vibe-clean%20code%20%2B%20strong%20fundamentals-7B2FFF?style=for-the-badge&labelColor=0d1117" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=yugcpatel&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 
